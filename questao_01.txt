@@ -1,0 +1,7 @@
+I - Na linha 24 tem uma tag style que deveria ser uma tag script.
+II - Na linha 9 tem a tag style e nela, aparentemente, era para ser definido a cor do background 
+     de um parágrafo a partir de um id, mas onde está o "#para" era para estar o "background" e 
+     onde está o "background" era para estaro "#para".
+III - Linha 15 está faltando a tag body.
+IV - Linha 4 era para ser um comentário, mas não são os caracteres certos para serem usados para 
+     se fazer um comentário. O certo seria "<!-- -->" ao invés de /* */.

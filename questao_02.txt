@@ -1,0 +1,3 @@
+    I - Seletor de elemento, neste caso seria "span"
+    II - Seletor de atributo (title="css")
+    III - Seletor de descendência "p span {...}"
